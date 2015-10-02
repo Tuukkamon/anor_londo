@@ -15,3 +15,9 @@ Pelimoottorina toimi Construct 2. Peli toteutetaan HTML-muotoon, jolloin sitä v
 Peli on tietovisa, jossa esitetään kysymyksiä joihin vastataan oikealla kuvavaihtoehdolla. Pelissä on x määrä kysymyksiä ja rajallinen aika joka esitetään visuaalisesti tiimalasilla. Pelissä lasketaan menestystä/pisteitä oikeilla vastauksilla ja väärä vastaus vähentää pisteitä tai esim. vähentää yrityksiä/aikaa. Alkuperäinen ajatus olisi esimerkiksi 8 kysymystä ja minuutti aikaa vastata kaikkiin kysymyksiin. Oikea vastaus voisi pisteiden lisäksi lisätä ajanhiekkaa tiimalasiin.
 
 ##### Resurssit
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
