@@ -18,4 +18,4 @@ Peli on tietovisa, jossa esitetään kysymyksiä joihin vastataan oikealla kuvav
 
 ##### Resurssit
 
-
+https://www.scirra.com/tutorials/1418/trivia-game/page-1
