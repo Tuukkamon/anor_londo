@@ -17,7 +17,6 @@ Peli on tietovisa, jossa esitetään kysymyksiä joihin vastataan oikealla kuvav
 ##### Resurssit
 
 | Kohderyhmä    | 80-90 vuotiaat|
-| ------------- |:-------------:|
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
